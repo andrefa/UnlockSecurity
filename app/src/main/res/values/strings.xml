@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnlockSecurity</string>
+    <string name="app_description">A sample Device Administration application to enforce a lock screen policy.</string>
+    <string name="action_settings">Settings</string>
+</resources>
